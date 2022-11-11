@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/dprogrammeur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dprogrammeur" height="30" width="40" /></a>
 <a href="https://fb.com/donaldprogrammeur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="donaldprogrammeur" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/donald programmeur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="donald programmeur" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@donaldprogrammeur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="donald programmeur" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
