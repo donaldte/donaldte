@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Donald Tedom Noutchougouin</h1>
 <h3 align="center">A passionate computer engineer from Cameroon</h3>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Machine learning**
 
 - 📝 I regularly write articles on [donaldprogrammeur.com](donaldprogrammeur.com)
 
