@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Donald Tedom Noutchougouin</h1>
+<h1 align="center">Hi 👋, I am Donald Tedom Noutchougouin</h1>
 <h3 align="center">A passionate computer engineer from Cameroon</h3>
 
 - 🌱 I’m currently learning **Machine learning**
