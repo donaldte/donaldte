@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 📝 I regularly write articles on [donaldprogrammeur.com](donaldprogrammeur.com)
+- 📝 I regularly write articles on [hooyia.net](hooyia.net)
 
 - 📫 How to reach me **donaldtedom0@gmail.com**
 
