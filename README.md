@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **donaldtedom0@gmail.com/contact@e-hooyia.com**
 
-- ⚡ Fun fact **“A son asked his father (a programmer) why the sun rises in the east, and sets in the west. His response? It works, don’t touch!”**
+- ⚡ Fact **“No Limit In Mind When building”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
