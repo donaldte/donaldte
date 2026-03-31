@@ -17,55 +17,7 @@
 ### 👨‍💻 About me – the professional side
 
 - 🎓 **Computer Engineer** from Cameroon – passionate about **MLOps**, **Cloud Native**, and **Edge AI**.
-- ☁️ Currently mastering **Kubernetes** (EKS, AKS), **AWS** (Lambda, EC2, S3), **Azure** (Functions, AKS) and **Docker** (swarm, compose).
-- 📝 I write deep technical articles on **[runbookly.io](https://runbookly.io)** – DevOps, Python, and Machine Learning.
-- 🧠 **Learning**: TensorFlow Extended (TFX), Kubeflow, and real‑time inference pipelines.
-- ⚡ Fun fact: *“No Limit In Mind When Building”* – I once built a serverless IoT platform using Raspberry Pi + AWS Greengrass.
 - 📫 Reach me: **donaldtedom0@gmail.com** | **contact@runbookly.io**
-
----
-
-### 🧰 Tech Arsenal (The “Wow” Factor)
-
-#### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-#### Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### Backend & Databases
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-#### ☁️ Cloud & DevOps (Star of the show)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-#### Machine Learning & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-#### IoT & Embedded
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
----
 
 ### 📊 Live GitHub Analytics (Auto‑updated)
 
@@ -79,11 +31,7 @@
 
 ### 📕 Latest from [runbookly.io](https://runbookly.io) (Auto‑updated)
 
-<!-- BLOG-POST-LIST:START -->
-<!-- Your latest 3 articles will appear here automatically -->
-<!-- BLOG-POST-LIST:END -->
-
-👉 *Read more technical deep‑dives on my blog.*
+👉 *Read more technical deep‑dives on my blog.* ![runbookly.io](runbookly.io)
 
 ---
 
@@ -105,10 +53,3 @@
   <a href="https://www.buymeacoffee.com/donaldtedom"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
 
-<div align="center">
-  <i>“No Limit In Mind When Building”</i><br/>
-  <sub>🇨🇲 From Cameroon, with containers & code</sub>
-</div>
-
-<!-- wave footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
