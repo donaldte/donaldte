@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 📝 I regularly write articles on [hooyia.net](hooyia.net)
+- 📝 I regularly write articles on [runbookly.io](https://runbookly.io)
 
-- 📫 How to reach me **donaldtedom0@gmail.com/contact@e-hooyia.com**
+- 📫 How to reach me **donaldtedom0@gmail.com/contact@runbookly.io**
 
 - ⚡ Fact **“No Limit In Mind When building”**
 
