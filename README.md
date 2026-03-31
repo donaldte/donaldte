@@ -29,10 +29,7 @@
 
 </div>
 
-### 📕 Latest from [runbookly.io](https://runbookly.io) (Auto‑updated)
-
-👉 *Read more technical deep‑dives on my blog.* ![runbookly.io](runbookly.io)
-
+### 📕 Read my articles here [runbookly.io](https://runbookly.io)
 ---
 
 ### 🤝 Let’s connect – professionally
