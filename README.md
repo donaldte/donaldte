@@ -77,29 +77,6 @@
 
 </div>
 
-<br>
-
-<div align="center">
-
-  ### 🏆 Trophées GitHub
-
-  <img src="https://github-profile-trophy.vercel.app/?username=donaldte&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</div>
----
-
-### 🐍 Fun Animation: The Snake Eating My Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/donaldte/donaldte/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/donaldte/donaldte/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/donaldte/donaldte/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-*(This snake animation updates every day with your actual contributions!)*
-
----
-
 ### 📕 Latest from [runbookly.io](https://runbookly.io) (Auto‑updated)
 
 <!-- BLOG-POST-LIST:START -->
