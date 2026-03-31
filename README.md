@@ -70,21 +70,10 @@
 ### 📊 Live GitHub Analytics (Auto‑updated)
 
 <div align="center">
-  <!-- Stats cards using different service -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=donaldte&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donaldte&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=GitHub+Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdonaldte&style=for-the-badge&logo=github&color=blue" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total+Commits&query=%24.contributions&url=https%3A%2F%2Fgithub-contributions-api.deno.dev%2Fdonaldte.json&style=for-the-badge&logo=github&color=green" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdonaldte&style=for-the-badge&logo=github&color=yellow" />
 </div>
-
-<!-- Streak stats – use a different domain -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=donaldte&theme=radical&hide_border=true&background=0D1117&stroke=2D9CDB&ring=2D9CDB&fire=2D9CDB" alt="GitHub Streak" />
-</div>
-
-<!-- Trophies – already stable, but add fallback text -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=donaldte&theme=radical&no-frame=true&row=2&column=4" alt="Trophies" onerror="this.style.display='none'"/>
-</div>
-
 ---
 
 ### 🐍 Fun Animation: The Snake Eating My Contributions
